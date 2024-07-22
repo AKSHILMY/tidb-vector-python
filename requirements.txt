@@ -1,0 +1,6 @@
+python-dotenv
+tidb-vector
+sqlalchemy==2.0.16
+sqlalchemy_utils==0.41.1
+PyMySQL==1.0.3
+openai~=1.35.5
